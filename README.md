@@ -43,5 +43,5 @@ Should have used Mobile-first approach.
 
 ## Author
 
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/Shazee17)
+- Frontend Mentor - [@Shazee17](https://www.frontendmentor.io/profile/Shazee17)
 
